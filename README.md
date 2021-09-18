@@ -16,7 +16,7 @@ The goal of purrrogress is to add as simply as possible progress bars to
 
 ## Installation
 
-Package ‘testextra’ was removed from the CRAN repository.You cannot install the released version of purrrogress from
+Package ‘purrrogress’ was removed from the CRAN repository.You cannot install the released version of purrrogress from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
