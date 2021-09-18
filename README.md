@@ -20,7 +20,11 @@ You can install the released version of purrrogress from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("purrrogress")
+devtools::install_github("RDocTaskForce/testextra")
+devtools::install_github("RDocTaskForce/parsetools")
+devtools::install_github("Shicheng-Guo/purrrogress")
+BiocManager::install("TCGAbiolinks")
+library("TCGAbiolinks")
 ```
 
 ## Using
